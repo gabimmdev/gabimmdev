@@ -26,5 +26,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e estou no 2° s
 
 
 ### 🌐 Social
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabimezze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabimezze) [![Twitch](https://img.shields.io/badge/Twitch-%238000FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/gabimezze)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabimmdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabimezze) [![Twitch](https://img.shields.io/badge/Twitch-%238000FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/gabimezze)
 
