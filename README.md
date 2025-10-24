@@ -14,7 +14,3 @@ Prazer sou Gabriela e sou Desenvolvedora front-end freelancer
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,git,java,spring,docker)](https://skillicons.dev)
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=leosilper&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
