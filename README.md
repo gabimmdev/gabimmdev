@@ -12,5 +12,14 @@ Prazer sou Gabriela e sou Desenvolvedora front-end freelancer
 <hr>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,git,java,spring,docker)](https://skillicons.dev)
+[![Gabriela's Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,git,java,spring,docker)](https://skillicons.dev)
 
+
+![Gabriela's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabimmdev&theme=tokyo-night)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabimmdev/gabimmdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabimmdev/gabimmdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabimmdev/gabimmdev/output/github-contribution-grid-snake.svg">
+</picture>
