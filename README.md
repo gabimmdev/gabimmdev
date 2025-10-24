@@ -8,7 +8,7 @@ Prazer sou Gabriela e sou Desenvolvedora front-end freelancer
 + Experiência e conhecimento adquiridos com projetos pessoais, freelancer e acadêmicos.
 + Interessada em se especializar na área de <strong>Desenvolvimento Web</strong>.
 
-<p>🎬 Tech creator. Eu compartilho da minha vida como desenvolvedora no <a href="https://www.youtube.com/@gabimmdev" target="_blank">Youtube</a>, <a href="https://www.instagram.com/gabimmdev/" target="_blank">Instagram</a> e <a href="https://www.linkedin.com/in/gabimm/" target="_blank">LinkedIn</a> !!</p>
+<p>🎬 Tech creator. Eu compartilho da minha vida como desenvolvedora no <a href="https://www.youtube.com/@gabimmdev" target="_blank">Youtube</a> e <a href="https://www.linkedin.com/in/gabimm/" target="_blank">LinkedIn</a> !!</p>
 <hr>
 
 
