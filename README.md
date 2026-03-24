@@ -12,7 +12,7 @@ Prazer, sou Gabriela e sou Desenvolvedora front-end.
 <hr>
 
 
-[![Gabriela's Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,git,nodejs,figma,)](https://skillicons.dev)
+[![Gabriela's Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,git,nodejs,figma,vite,)](https://skillicons.dev)
 
 
 <div align="center">
